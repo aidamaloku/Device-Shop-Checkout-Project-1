@@ -1,2 +1,2 @@
-# Device Shop Checkout Project 1
+# device-shop-checkout
 
