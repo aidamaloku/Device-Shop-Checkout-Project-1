@@ -1,0 +1,71 @@
+.right-content {
+    margin-left: 40px;
+    margin-top: 30px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #394150;
+}
+
+.input-names, .input-email {
+    background-color: #F3F4F6;
+    border: 1px solid rgba(128, 128, 128, 0.219);
+    padding: 20px 360px 20px 10px;
+    border-radius: 7px;
+}
+
+.styled-select {
+    background-color: #F3F4F6;
+    border: 1px solid rgba(128, 128, 128, 0.219);
+    padding: 20px 160px 20px 10px;
+    border-radius: 7px;
+    margin-right: 10px;
+    font-weight: solid;
+    font-size: 16px;
+}
+
+
+::placeholder {
+    font-size: 16px;
+    color: #394150;
+    padding-left: 5px;
+}
+
+.input-postcode {
+    background-color: #F3F4F6;
+    border: 1px solid rgba(128, 128, 128, 0.219);
+    padding: 20px 80px 20px 10px;
+    border-radius: 7px;
+    font-size: 16px;
+}
+
+
+.title-right {
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+
+.first-last-names, .email-container {
+    margin-bottom: 30px;
+}
+
+.country-postcode-container {
+    display: flex;
+}
+
+
+.continue-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 548px;
+    height: 60px;
+    border-radius: 7px;
+    background-color: #1D1D1F;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 50px;
+}

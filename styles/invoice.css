@@ -1,0 +1,49 @@
+.coupon {
+    display: flex;
+    margin-left: 55px;
+    margin-top: 30px;
+}
+
+.coupon-code {
+    padding: 15px 200px 15px 5px;
+    border-radius: 7px;
+    border: 1px solid rgba(128, 128, 128, 0.418);
+    margin-right: 10px;
+}
+
+.apply-coupon-button {
+    background-color: #1D1D1F;
+    color: white;
+    padding: 15px;
+    border-radius: 7px;
+    font-size: 16px;
+    font-weight:normal;
+    cursor: pointer;
+}
+
+.invoice {
+    display: flex;
+    justify-content: space-between;
+    text-align: end;
+    margin: 10px 30px 10px 60px;
+}
+
+.invoice-type {
+    text-align: start;
+}
+
+.sub-total,
+.tax,
+.sub-total-amount,
+.tax-amount {
+    color: #394150;
+    font-weight: 500;
+}
+
+.total, 
+.total-amount {
+    color: #1D1D1F;
+    font-weight: 600;
+}
+
+

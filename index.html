@@ -1,12 +1,153 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Device Checkout</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="styles/checkout-container.css">
+    <link rel="stylesheet" href="styles/order.css">
+    <link rel="stylesheet" href="styles/invoice.css">
+    <link rel="stylesheet" href="styles/contact-info.css">
 </head>
+
 <body>
-    Hello
-    I
+    <div class="main-container">
+        <!--background-->
+        <div class="upper-background">
+            <div class="checkout-container">
+                <p class="title">Checkout</p>
+                <p class="item-total-number">3 ITEMS</p>
+            </div>
+        </div>
+        <div class="lower-background"></div>
+
+        <!--order&contact info-->
+        <div class="total-container">
+            <!--order-container(left) -->
+            <div class="left-container">
+                <!--iPhone 12-->
+                <div class="item-1">
+                    <div class="item-image-wrapper">
+                        <img class="iphone-img" src="resources/Gold.png">
+                    </div>
+                    <div class="item-details">
+                        <div class="item-name-color">
+                            <p class="item-name">iPhone 12 Pro</p>
+                            <p class="item-color">Golden</p>
+                        </div>
+                        <p class="item-quantity">x 1</p>
+                    </div>
+
+                    <div class="item-price-remove-1">
+                        <p class="item-price">$999.00</p>
+                        <img class="remove-1" src="resources/close-icon.svg">
+                    </div>
+                </div>
+
+                <!--Apple Watch-->
+                <div class="item-2">
+                    <div class="item-image-wrapper">
+                        <img class="apple-watch-img" src="resources/Apple-watch.png">
+                    </div>
+                    <div class="item-details">
+                        <div class="item-name-color">
+                            <p class="item-name">Apple Watch</p>
+                            <p class="item-color">Blue</p>
+                        </div>
+                        <p class="item-quantity">x 1</p>
+                    </div>
+
+                    <div class="item-price-remove-2">
+                        <p class="item-price">$399.00</p>
+                        <img class="remove-2" src="resources/close-icon.svg">
+                    </div>
+                </div>
+
+                <!--iMac-->
+                <div class="item-3">
+                    <div class="item-image-wrapper">
+                        <img class="imac-img" src="resources/iMac.png">
+                    </div>
+                    <div class="item-details">
+                        <div class="item-name-color">
+                            <p class="item-name">iMac</p>
+                            <p class="item-color">Green</p>
+                        </div>
+                        <p class="item-quantity">x 1</p>
+                    </div>
+
+                    <div class="item-price-remove-3">
+                        <p class="item-price">$1199.00</p>
+                        <img class="remove-3" src="resources/close-icon.svg">
+                    </div>
+                </div>
+                <!--line between items and invoice-->
+                <hr class="coupon-divider">
+                <!--Invoice section-->
+                <!--coupon code-->
+                <div class="coupon">
+                    <input class="coupon-code" type="text" placeholder="Enter coupon code">
+                    <button class="apply-coupon-button">Apply Coupon</button>
+                </div>
+                <div class="invoice">
+                    <!--invoice-type-->
+                    <div class="invoice-type">
+                        <p class="sub-total">Sub total</p>
+                        <p class="tax">Tax</p>
+                        <p class="total">Total</p>
+                    </div>
+                    <!--invoice amount-->
+                    <div class="invoice-amount">
+                        <p class="sub-total-amount">$2597.00</p>
+                        <p class="tax-amount">$623.28</p>
+                        <p class="total-amount">$3220.28</p>
+                    </div>
+                </div>
+
+            </div>
+            <!--& contact-information-container(right)--->
+            <div class="right-container">
+                <div class="right-content">
+                    <p class="title-right">Contact Information</p>
+                    <!--names-input-->
+                    <div class="first-last-names">
+                        <p class="title-input">First & Last name</p>
+                        <input class="input-names" type="text" placeholder="Enter first & last name">
+                    </div>
+                    <!--Email-input-->
+                    <div class="email-container">
+                        <p class="title-input">Email Address</p>
+                        <input class="input-email" type="email" placeholder="Enter email adress">
+                    </div>
+
+                    <div class="country-postcode-container">
+                        <!--Country-selector-->
+                        <div class="country-container">
+                            <p class="title-input">Country</p>
+                            <select class="styled-select">
+                                <option>Finland</option>
+                            </select>
+                        </div>
+                        <!--Postal-code-->
+                        <div class="postcode-container">
+                            <p class="title-input">Postal Code</p>
+                            <input class="input-postcode" type="text" placeholder="00270">
+                        </div>
+                    </div>
+                    <!--button-->
+                    <div class="button-container">
+                        <button class="continue-button">Continue</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
+
 </html>

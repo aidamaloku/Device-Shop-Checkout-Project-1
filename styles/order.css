@@ -1,0 +1,79 @@
+.item-1,
+.item-2 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: start;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.item-3 {
+    display: flex;
+    align-items: start;
+    margin-left: 55px;
+    margin-top: 30px;
+}
+
+/*images*/
+.iphone-img {
+    padding: 10px 25px 10px 25px;
+    background-color: #F3F4F6;
+    border-radius: 10px;
+    border: 0.1px solid rgba(128, 128, 128, 0.342);
+}
+
+.apple-watch-img {
+    padding: 20px 30px 20px 30px;
+    background-color: #F3F4F6;
+    border-radius: 10px;
+    border: 0.1px solid rgba(128, 128, 128, 0.342);
+}
+
+.imac-img {
+    padding: 15px 7px 15px 7px;
+    background-color: #F3F4F6;
+    border-radius: 10px;
+    border: 0.1px solid rgba(128, 128, 128, 0.342);
+    margin-right: 25px;
+}
+
+/*item details - text css*/
+
+.item-name-color {
+    line-height: 0.5;
+    margin-bottom: 40px;
+}
+
+.item-name,
+.item-price {
+    font-weight: 700;
+    margin: 0;
+    margin-top: 5px;
+}
+
+.item-price {
+    margin: 0;
+    margin-bottom: 55px;
+    margin-left: 210px;
+}
+
+.remove-1,
+.remove-2 {
+    margin-left: 250px;
+    cursor: pointer;
+}
+
+.remove-3 {
+    margin-left: 255px;
+    cursor: pointer;
+}
+
+.item-price-remove-3 {
+    margin-left: 70px;
+}
+
+.coupon-divider {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 15px 30px 20px 60px;
+ }
