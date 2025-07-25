@@ -81,5 +81,4 @@ The course I took at Digital Learning Hub laid the foundation for my understandi
 
 ## Author
 
-- Website [project-1-device-shop-checkout.netlify.app](https://project-1-device-shop-checkout.netlify.app/)
 - GitHub [@aidamaloku](https://github.com/aidamaloku)
