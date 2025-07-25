@@ -10,8 +10,18 @@
 .item-3 {
     display: flex;
     align-items: start;
-    margin-left: 55px;
+    margin-left: 45px;
     margin-top: 30px;
+}
+
+.item-details-3 {
+    margin-left: 15px;
+}
+/*image-container*/
+
+.item-image-wrapper {
+    width: 130px;    
+    height: 100px;   
 }
 
 /*images*/
@@ -34,7 +44,6 @@
     background-color: #F3F4F6;
     border-radius: 10px;
     border: 0.1px solid rgba(128, 128, 128, 0.342);
-    margin-right: 25px;
 }
 
 /*item details - text css*/

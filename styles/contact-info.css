@@ -16,11 +16,13 @@
 .styled-select {
     background-color: #F3F4F6;
     border: 1px solid rgba(128, 128, 128, 0.219);
-    padding: 20px 160px 20px 10px;
+    padding: 18px 160px 20px 10px;
     border-radius: 7px;
     margin-right: 10px;
     font-weight: solid;
     font-size: 16px;
+    margin-top: 25px;
+    margin: 0;
 }
 
 
@@ -33,7 +35,7 @@
 .input-postcode {
     background-color: #F3F4F6;
     border: 1px solid rgba(128, 128, 128, 0.219);
-    padding: 20px 80px 20px 10px;
+    padding: 20px 70px 20px 10px;
     border-radius: 7px;
     font-size: 16px;
 }
@@ -53,8 +55,12 @@
 
 .country-postcode-container {
     display: flex;
+
 }
 
+.postcode-container {
+    margin-left: 20px;
+}
 
 .continue-button {
     display: flex;
@@ -69,3 +75,4 @@
     cursor: pointer;
     margin-top: 50px;
 }
+
