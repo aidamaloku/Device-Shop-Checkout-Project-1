@@ -38,6 +38,7 @@
 
 ## Overview
 
+![Screenshot of the website](Screenshot%20-%20Project-1.png)
 
 <!--
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
@@ -74,7 +75,7 @@ W3Schools – for HTML and CSS reference
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
+This site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
 
 ## Acknowledgements
 
