@@ -76,10 +76,8 @@ This site was created as a submission to a [DevChallenges](https://devchallenges
 
 ## Acknowledgements
 
-The course that I did at Digital Learning Hub set my foundations in HTML and Css and the course i did here on youtube by SuperSimpleDev (https://youtu.be/G3e-cpL7ofc?si=DJpaxBdoFtuAD_lU) strenthened and depthened my knowledge.
+The course I took at Digital Learning Hub laid the foundation for my understanding of HTML and CSS, while the YouTube course by <a href="https://youtu.be/G3e-cpL7ofc?si=DJpaxBdoFtuAD_lU">SuperSimpleDev</a> further strengthened and deepened my knowledge.
 
-The course I took at Digital Learning Hub laid the foundation for my understanding of HTML and CSS, while the YouTube course by SuperSimpleDev <a src="https://youtu.be/G3e-cpL7ofc?si=DJpaxBdoFtuAD_lU">link</a>
-further strengthened and deepened my knowledge.
 
 ## Author
 
