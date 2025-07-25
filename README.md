@@ -42,7 +42,7 @@
 
 ![Screenshot of the website](Screenshot%20-%20Project-1.png)
 
-I worked on some other, simpler projects as well. Before starting this one, my goal was to first build a solid understanding by continuing after my course at the Digital Learning Hub, which laid the foundation. I aimed to deepen my knowledge through YouTube tutorials and by learning from documentation. To avoid getting stuck in theory alone, I wanted to actively apply what I had learned through this project. After this project, I will aim to do all the other projects on [DevChallenges](https://devchallenges.io/challenges-dashboard)
+I worked on some other, simpler projects as well. Before starting this one, my goal was to build a solid understanding by continuing after my course at the Digital Learning Hub, which laid the foundation. I aimed to deepen my knowledge through YouTube tutorials and by learning from documentation. To avoid getting stuck in theory alone, I wanted to actively apply what I had learned through this project, which I deployed using Netlify. After completing this project, I plan to work on the remaining challenges on DevChallenges. [DevChallenges](https://devchallenges.io/challenges-dashboard)
 
 
 
@@ -55,8 +55,8 @@ I encountered some difficulties with centering elements and realized that I need
 
 ### Useful resources
 
-MDN Web Docs – for HTML and CSS reference
-W3Schools – for HTML and CSS reference
+- MDN Web Docs : for HTML and CSS reference
+- W3Schools : for HTML and CSS reference
 
 ### Built with
 
