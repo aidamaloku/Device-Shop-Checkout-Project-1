@@ -39,7 +39,7 @@
 
 ![Screenshot of the website](screenshot.png)
 
-This project is an Apple shop checkout page built with HTML and CSS. It features two main sections: a product summary and a contact form where users can enter their name, email, and country. The goal of the project is to practice layout techniques using Flexbox. It was built as part of a frontend challenge to strengthen HTML and CSS skills.[DevChallenges](https://devchallenges.io/challenges-dashboard)
+This project is an Apple shop checkout page built with HTML and CSS. It features two main sections: a product summary and a contact form where users can enter their name, email, and country. The goal of the project is to practice layout techniques using Flexbox. It was built as part of a frontend challenge to strengthen HTML and CSS skills.
 
 
 
