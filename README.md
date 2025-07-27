@@ -1,6 +1,3 @@
-# device-shop-checkout
-
-
 <h1 align="center">Device-Shop-Checkout-Project-1 | devChallenges</h1>
 
 <div align="center">
