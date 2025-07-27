@@ -34,7 +34,7 @@
 - [Features](#features)
 - [Acknowledgements](#acknowledgements)
 - [Author](#author)
-- [Note](#note)
+- [Reflection & Progress](#reflection-&-progress)
 
 <!-- OVERVIEW -->
 
