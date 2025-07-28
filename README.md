@@ -10,10 +10,6 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/aidamaloku/Device-Shop-Checkout-Project-1">
-      Solution
-    </a>
-    <span> | </span>
     <a href="https://devchallenges.io/challenge/apple-shop-checkout-page-challenge">
       Challenge
     </a>
